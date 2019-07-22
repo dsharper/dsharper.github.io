@@ -1,1 +1,9 @@
-theme: jekyll-theme-minimal
+title: My Website
+description: Just playing with Jekyll
+
+theme: jekyll-theme-slate
+
+collections:
+  venues:
+    output: true
+    permalink: /:collection/:name
