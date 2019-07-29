@@ -1,11 +1,13 @@
-## Toronto Coffee Houses fo the early 1960s
+## Toronto Coffee Houses of the early 1960s
 Who Performed Where
 
-These listings are a composite of what appeared in the Toronto Telegram’s What’s Going On listing in the Showcase Section (October 1963 to 1966) and the Chum About Town listings in the After Four Section (Feb 1964 - Feb 1965) augmented by electronic searches of the Toronto Star and Globe and Mail archives.  The entries for each coffee house come and go without reason, perhaps they weren’t chosen by the paper, or not submitted, for whatever reason.
+These listings are a composite of what was scanned from Toronto Reference Library microfilm records of the Toronto Telegram’s _What’s Going On_ listing in the Saturday _Showcase Section_, and the _Chum About Town_ listings in the Thursday _After Four Section_, augmented by electronic searches of the Toronto Star and Globe and Mail archives available through the Toronto Public Library.  The entries for each coffee house come and go without reason, perhaps they weren’t chosen by the paper, or not submitted, for whatever reason.
+
+I've started with three coffee houses in or around Yorkville Village but will over time add houses both there and further afield.
 
 In many cases the beginnings or ends of appearances were difficult to establish because they varied.  Other times the published performances didn’t happen due to unexpected circumstances like rejections at the US/Canada border, sickness, police (drug- related) charges, etc.
 
-In the Note and References and column I include information I find interesting, curious or humorous.  Each entry is reference: The Telegram (Telly), The Toronto Star (Star) or Globe and Mail (G&M).  If you see mistakes let me know at: 
+In the Notes and References and column I include information I find interesting, curious or humorous.  Each entry is referenced: The Telegram (Telly), The Toronto Star (Star) or Globe and Mail (G&M).  If you see mistakes let me know at: 
 
 If this information helps anyone remember the 60's; great, it did for me. 
 
