@@ -49,4 +49,20 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
     </a>
   </li>
 {% endfor %}
+
+{% for venue in site.venues %}
+  <li>
+    <a href="{{ venue.url }}">
+      {{Village Corner}}
+    </a>
+  </li>
+{% endfor %}
+
+{% for venue in site.venues %}
+  <li>
+    <a href="{{ venue.url }}">
+      {{Purple Onion}}
+    </a>
+  </li>
+{% endfor %}
 </ul>
