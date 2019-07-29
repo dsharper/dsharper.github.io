@@ -45,7 +45,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 {% for venue in site.venues %}
   <li>
     <a href="{{ venue.url }}">
-      {{file:///C:/Users/Owner/Documents/Yorkville/New%20Gate%20of%20Cleve%20HTML%20Ver%201.htm}}
+      {{Gate of Cleve}}
     </a>
   </li>
 {% endfor %}
