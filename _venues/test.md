@@ -1,5 +1,5 @@
 ---
-name: The Name of the Venue
+name: The Half Beat
 layout: default
 ---
 
